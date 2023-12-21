@@ -1,8 +1,9 @@
 import React from 'react';
+import Counter from './components/counter';
 // import UserList from './components/api_display';
 // import Datta from './components/reactStateAndLifecycle';
 // import Tasks from './components/stateAndForms';
-import UsersList from './components/hookAndApi';
+// import UsersList from './components/hookAndApi';
 
 
 function App() {
@@ -12,7 +13,8 @@ function App() {
      {/* <UserList/> */}
      {/* <Datta/> */}
      {/* <Tasks/> */}
-     <UsersList/>
+     {/* <UsersList/> */}
+     <Counter/>
 
     </div>
   );
