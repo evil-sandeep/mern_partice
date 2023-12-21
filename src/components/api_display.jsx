@@ -1,4 +1,4 @@
-// Create a simple React component that fetches data from an API and displays it. Assume the API endpoint is https://jsonplaceholder.typicode.com/users and the component should display a list of users with their names.
+// Create a simple React component that fetches data. from an API and displays it. Assume the API endpoint is https://jsonplaceholder.typicode.com/users and the .component should display a list of users with their names.
  import React,{useState,useEffect} from 'react';
  
 
